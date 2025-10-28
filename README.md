@@ -5,9 +5,6 @@
 - [Portfolio](http://cpt-periwinkle.github.io/skalekar-portfolio-templates/)
 - [GitHub Repository](https://github.com/cpt-periwinkle/skalekar-portfolio-templates)
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
 Hi!  My name is Shlok Kalekar (he/him). I'm a Master of Information Systems Management student at Carnegie Mellon University. I'm working to become 
 a technical consultant, so I am hoping to get better understanding information and technology as a whole. You could say I have a love for all things 
@@ -20,6 +17,8 @@ technology, and am always keen to learn more!
 - Learn some design techniques and methodologies!
 
 # Portfolio
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+
 - ## Assignment 3
 - ## Assignment 4
 - ## Final Project
