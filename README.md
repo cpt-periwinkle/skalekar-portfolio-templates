@@ -2,8 +2,8 @@
 
 # skalekar-portfolio-templates 
 
-- Web page URL: http://cpt-periwinkle.github.io/skalekar-portfolio-templates/
-- This repository: https://github.com/cpt-periwinkle/skalekar-portfolio-templates
+- [Portfolio](http://cpt-periwinkle.github.io/skalekar-portfolio-templates/)
+- [GitHub Repository](https://github.com/cpt-periwinkle/skalekar-portfolio-templates)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
@@ -20,6 +20,9 @@ technology, and am always keen to learn more!
 - Learn some design techniques and methodologies!
 
 # Portfolio
+- ## Assignment 3
+- ## Assignment 4
+- ## Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
