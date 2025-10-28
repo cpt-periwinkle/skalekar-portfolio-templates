@@ -1,8 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# skalekar-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# skalekar-portfolio-templates 
 
 - Web page URL: http://cpt-periwinkle.github.io/skalekar-portfolio-templates/
 - This repository: https://github.com/cpt-periwinkle/skalekar-portfolio-templates
@@ -11,20 +9,15 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  My name is Shlok Kalekar (he/him). I'm a Master of Information Systems Management student at Carnegie Mellon University. I'm working to become 
+a technical consultant, so I am hoping to get better understanding information and technology as a whole. You could say I have a love for all things 
+technology, and am always keen to learn more!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- How to effectively present data in the form of visualizations
+- How to provide users with an easy way to interact with information
+- Learn some design techniques and methodologies!
 
 # Portfolio
 
