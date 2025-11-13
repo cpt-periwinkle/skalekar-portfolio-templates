@@ -79,13 +79,23 @@ I plan on making the calorie counts useful as I feel as though it is misrepresen
 
 ## Step three: Sketch a solution
 
+Going into the sketches, I had a clear idea that I wanted to maybe add some more data in while still trying to keep the simplicity of the original. I used ChatGPT for some inspiration on what kind of diagrams would work for the dimensions I was looking for.
+
+However, I did hit a pretty major snag. The problem was that the dataset given in Makeover Monday was not the same as the one used in the diagram, as it lacked information such as calorie counts for the food and had 'Cost of 20g of protein' instead of the 30g depicted in the viz. This meant my using of calorie as a metric went out the window, but the data itself was still pretty good, which is why I decided to keep moving forward with redesigning this viz.
+
+I drew 2 sketches for this, both which had compelling yet different ideas on what story the data is telling.
+
+### Sketch 1
 <p align="center">
   <img src="sketch1.jpg" width="600" alt="Sketch 1"/>
 </p>
+Sketch 1 comes from the idea that the information is very less at the moment, and I had an interest in making the most of every column within the dataset. The dataset came in with fields such as if the food is classified as a vegetarian, vegan or meat based food, how much a package of the protein source costs and the total protein for a package. I felt as though I could use different colors to depict the food classification with red being meat, yellow being vegetarian and green being vegan, as that's the color scheme used in India. I also thought size of the points would be an interesting way to show cost per package. The two axes would be the 'Cost of 20g of Protein' and 'Total Protein per Package' as I felt though the relationship between the amount of protein within the package to the cost of protein would be a good indicator of what's bang for your buck.
 
+### Sketch 2
 <p align="center">
   <img src="sketch2.jpg" width="600" alt="Sketch 2"/>
 </p>
+After drawing sketch 1, I felt as though I had complicated it had WAAAY too much and decided to go with a simple minor redesign of the original viz. However, instead of the visualizing the 'Cost of 20g of a Protein Source', I decided to inverse the relationship and make it 'The Amount of Protein one gets for $10', as a person who goes to the gym, I'd want to know which gives the most protein for the cheapest possible price. It is a different way of looking at it, and it oddly makes it more intuitive to look at. I also colored the columns for this one to depict meat and vegetarian food options.
 
 ## Step four: Test the solution
 
