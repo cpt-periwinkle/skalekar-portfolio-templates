@@ -85,13 +85,13 @@ However, I did hit a pretty major snag. The problem was that the dataset given i
 
 I drew 2 sketches for this, both which had compelling yet different ideas on what story the data is telling.
 
-### Sketch 1
+### <u>Sketch 1</u>
 <p align="center">
   <img src="sketch1.jpg" width="600" alt="Sketch 1"/>
 </p>
 Sketch 1 comes from the idea that the information is very less at the moment, and I had an interest in making the most of every column within the dataset. The dataset came in with fields such as if the food is classified as a vegetarian, vegan or meat based food, how much a package of the protein source costs and the total protein for a package. I felt as though I could use different colors to depict the food classification with red being meat, yellow being vegetarian and green being vegan, as that's the color scheme used in India. I also thought size of the points would be an interesting way to show cost per package. The two axes would be the 'Cost of 20g of Protein' and 'Total Protein per Package' as I felt though the relationship between the amount of protein within the package to the cost of protein would be a good indicator of what's bang for your buck.
 
-### Sketch 2
+### <u>Sketch 2</u>
 <p align="center">
   <img src="sketch2.jpg" width="600" alt="Sketch 2"/>
 </p>
