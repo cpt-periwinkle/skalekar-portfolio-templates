@@ -8,8 +8,10 @@ This assignment was an interesting one as I got utilize many of the skills I had
 
 ## Step one: the visualization
 
+URL: [](https://data.world/makeovermonday/2023w8)
+
 <p align="center">
-  <img src="https://mediauploads.data.world/3db73ff8f29a47292ba311c8b22a01128824a50ed28c88e06d079697861be225_image.png" width="400" alt="Protein cost visualization"/>
+  <img src="https://mediauploads.data.world/3db73ff8f29a47292ba311c8b22a01128824a50ed28c88e06d079697861be225_image.png" width="600" alt="Protein cost visualization"/>
 </p>
 
 I chose to redesign [**The Cheapest Way to Get Your Protein**](https://data.world/makeovermonday/2023w8) from the Makeover Monday catalog, which was the viz that was put up on February 2, 2023. The reason I chose this particular viz after going through many was because I felt this was a viz which would be useful for me to understand as a person who is picky about my diet. I felt the viz was very relatable, but there were some things which could have improved my understanding and could benefit from a redesign.
