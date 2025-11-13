@@ -122,14 +122,14 @@ My interviewees were fellow classmates from my class-
 
 Results: 
 
-| Question | Interviewee 1 | Interviewee 2 | Interviewee 3 |
-|----------|---------------|---------------|---------------|
-|    Can you tell me what you think this is at first glance?      |               |               |               |
-|    Can you describe to me what you think it's trying to tell you?      |               |               |               |
-|    Do you think you're able to understand the story at first?      |               |               |               |
-|    Who do you think is the intended audience for this?      |               |               |               |
-|    Do you think the intended audience would find it useful?      |               |               |               |
-|    Is there anything you would change or do differently?      |               |               |               |
+| Question                                                       | Interviewee 1 | Interviewee 2 | Interviewee 3 |
+|----------------------------------------------------------------|---------------|---------------|---------------|
+| Can you tell me what you think this is at first glance?        |               |               |               |
+| Can you describe to me what you think it's trying to tell you? |               |               |               |
+| Do you think you're able to understand the story at first?     |               |               |               |
+| Who do you think is the intended audience for this?            |               |               |               |
+| Do you think the intended audience would find it useful?       |               |               |               |
+| Is there anything you would change or do differently?          |               |               |               |
 
 Synthesis: 
 
