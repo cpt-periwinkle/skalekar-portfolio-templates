@@ -144,6 +144,8 @@ My interviewees were fellow classmates from my class-
 | **Do you think the intended audience would find it useful?** | Yes, as it shows which has the most protein for the cheapest price | Yes because it is easy to parse | Yes, it is simple to understand at a glance |
 | **Is there anything you would change or do differently?** | Change the colors so it is ADA compliant, since the options of food choices is useful | Changing the colors would be useful again, as well as understanding how much the product cost on sale | Change the colors |
 
+
+
 ### Synthesis: 
 
 From the interviews, I realized that my intuition on the first sketch being too complicated was correct, as those who read it felt it was too confusing for what it was. The size really made things difficult, and I also realized that the connection between all 3 elements I was depicting made little sense when you think outside the dataset.
