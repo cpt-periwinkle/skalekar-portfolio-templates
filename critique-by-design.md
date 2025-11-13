@@ -99,9 +99,9 @@ After drawing sketch 1, I felt as though I had complicated it had WAAAY too much
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Based on the visualization and the sketches I made, I decided to use many of the starter questions given in the assignment with a few minor tweaks. I wanted the questions to be a bit more personalized to the viz itself so I could gather more insights.
 
-Questions to ask (modify these for your own interviews): 
+The questions I asked were: 
 
 - Can you tell me what you think this is?
 
@@ -118,11 +118,11 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question | Interview 1 | Interview 2 | Interview 3 |
+|----------|-------------|-------------|-------------|
+|          |             |             |             |
+|          |             |             |             |
+|          |             |             |             |
 
 Synthesis: 
 
