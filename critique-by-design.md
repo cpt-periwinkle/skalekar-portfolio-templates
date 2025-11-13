@@ -79,8 +79,13 @@ I plan on making the calorie counts useful as I feel as though it is misrepresen
 
 ## Step three: Sketch a solution
 
-![Sketch 1](sketch1.jpg)
-![Sketch 2](sketch2.jpg)
+<p align="center">
+  <img src="sketch1.jpg" width="600" alt="Sketch 1"/>
+</p>
+
+<p align="center">
+  <img src="sketch2.jpg" width="600" alt="Sketch 2"/>
+</p>
 
 ## Step four: Test the solution
 
