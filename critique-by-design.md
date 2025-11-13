@@ -75,8 +75,8 @@ I plan on making the calorie counts useful as I feel as though it is misrepresen
 
 ## Step three: Sketch a solution
 
-![Sketch 1](sketch1.png)
-![Sketch 2](sketch2.png)
+![Sketch 1](sketch1.jpg)
+![Sketch 2](sketch2.jpg)
 
 ## Step four: Test the solution
 
