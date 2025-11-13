@@ -160,7 +160,7 @@ Through the synthesis phase, I learnt many things I could add into the diagram. 
 
 Labeling the grams on the bars and removing the axis also helped as we can see the exact changes in protein. On the tooltip I decided to add some more extra information so one can make more educated guesses, while annotating the protein sources which have the cheapest and most expensive smallest package. I also removed all extra information so nothing appears twice or is redundant.
 
-I changed the colors as that was a major feedback, trying to maintain the original idea of intuitive reading with being ADA compliant. I believe I came to a good color scheme which isn't too distracting and would be ADA compliant. I also added the feedback relating to the cost of package of the food source, as it would give the idea about what is in the budget to the person overall.
+I changed the colors as that was a major feedback, trying to maintain the original idea of intuitive reading with being ADA compliant. I believe I came to a good color scheme which isn't too distracting and would be ADA compliant. I also added the feedback relating to the cost of package of the food source, as it would give the idea about what is in the budget to the person overall. I also added in vegan as I realized that I could make it a calculated field. The colors are just a bit off their darkest versions, finding a sort of middle ground between ADA compliance and intuitiveness.
 
 Finally, I kept a title such that when a person reads it they realize how to read the bars themselves, telling the story about which has the most protein for $5 (which I changed to show a smaller range of values).
 
@@ -183,5 +183,10 @@ In the end, I am pretty happy with how the viz turned out, but will say that Git
 
 ## AI acknowledgements
 
-I used ChatGPT 5 Pro to ideate on the data I received. I did not use it to create anything, just push through ideas. I also used it as a user manual as I don't find Tableau as intuitive to use, so to do the things I wanted to do, I would ask ChatGPT.
+I used ChatGPT 5 Pro to ideate on the data I received. I did not use it to create anything, just push through ideas.
+
+I also used it as a user manual as I don't find Tableau as intuitive to use, so to do the things I wanted to do, I would ask ChatGPT. Examples of queries would be:
+
+_I want to create a calculated field which would allow me to have vegetarian, vegan and meat so I can add color to it_
+_How do I change the color of the text in the Legend?_
 
