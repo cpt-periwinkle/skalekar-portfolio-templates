@@ -8,7 +8,7 @@ This assignment was an interesting one as I got utilize many of the skills I had
 
 ## Step one: the visualization
 
-URL: [](https://data.world/makeovermonday/2023w8)
+URL: [https://data.world/makeovermonday/2023w8](https://data.world/makeovermonday/2023w8)
 
 <p align="center">
   <img src="https://mediauploads.data.world/3db73ff8f29a47292ba311c8b22a01128824a50ed28c88e06d079697861be225_image.png" width="600" alt="Protein cost visualization"/>
