@@ -75,6 +75,9 @@ I plan on making the calorie counts useful as I feel as though it is misrepresen
 
 ## Step three: Sketch a solution
 
+![Sketch 1](sketch1.png)
+![Sketch 2](sketch2.png)
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
