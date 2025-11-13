@@ -66,9 +66,11 @@ This was not a very engaging viz for me, especially since it wasn't very useful 
 The viz depicted is very striking to me through the title alone. As a person who is very careful about my diet, I found the title incredibly eye-capturing. The simple bar graph made it easy to see which foods have the highest cost as per the protein amount, though I would say on first glance I'd have thought it was a graph on cost per gram of protein. To me, the graph feels like it should be telling one story but it seems to be the exact opposite due to the way the sorting has been done. The pictures also seem a bit distracting and additional, since we already have the names, so it feels like we are just adding more components even though it's not required. I also feel the calorie accounts on the bar is distracting as it feels as if the data is mislabeled.
 
 **9. Who is the target audience and is this an effective viz for reaching that audience?**
+
 The primary audience seems to be people who are both fitness and budget conscious. The visualization seems to be effective in grabbing attention, but needs to be clearer about it's meaning since there seems to be a lot of extraneous components, as to get usable information needs some longer reading and parsing.
 
 **10. What are you planning on redesigning?**
+
 I plan on making the calorie counts useful as I feel as though it is misrepresented in this viz. I'll probably be trying a wide variety of categorized viz, trying to maintain the simplicity, as well as maybe using colors with a legend to better represent the data without overly distracting from the main idea for the target audience.
 
 ## Step three: Sketch a solution
