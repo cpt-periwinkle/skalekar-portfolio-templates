@@ -178,7 +178,6 @@ In the end, I am pretty happy with how the viz turned out, but will say that Git
 - Good Charts Chapter 3, Chapter 4, Pages 114 - 118
 - [2023/W8: The Cheapest Ways to Get Your Protein](2023/W8: The Cheapest Ways to Get Your Protein)
 - [Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
-- 
 
 ## AI acknowledgements
 
