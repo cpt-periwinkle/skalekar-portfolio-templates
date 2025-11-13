@@ -129,25 +129,38 @@ My interviewees were fellow classmates from my class-
 | **Do you think you're able to understand the story at first?** | No, it is too complicated | It is difficult to parse | Feels too distracting |
 | **Who do you think is the intended audience for this?** | People who care about fitness | People who are careful about diet | People who regularly go to the gym |
 | **Do you think the intended audience would find it useful?** | No, since it is too difficult to parse | No, it is very distracting | Maybe, but it would be difficult to parse and get anything meaningful out of it |
-| **Is there anything you would change or do differently?** | Make it simpler and change the colors so it is ADA compliant | Change the colors and make the reason for the size more obvious | Simplify and reduce the dimensions so as to make it more understandable. Maybe change the colors. |
+| **Is there anything you would change or do differently?** | Make it simpler and change the colors so it is ADA compliant | Change the colors and make the reason for the size more obvious | Simplify and reduce the dimensions so as to make it more understandable. Maybe change the colors |
 
 
 
 **Sketch 2**
+
 | Question | Interviewee 1 | Interviewee 2 | Interviewee 3 |
 |-----------|----------------|----------------|----------------|
-| **Can you tell me what you think this is at first glance?** | Scatterplot depicting a relationship between protein and cost | Scatterplot about different foods | Food and protein relationship visualization |
-| **Can you describe to me what you think it's trying to tell you?** |  |  |  |
-| **Do you think you're able to understand the story at first?** |  |  |  |
-| **Who do you think is the intended audience for this?** |  |  |  |
-| **Do you think the intended audience would find it useful?** |  |  |  |
-| **Is there anything you would change or do differently?** |  |  |  |
+| **Can you tell me what you think this is at first glance?** | Same as before | Same as before | Same as before |
+| **Can you describe to me what you think it's trying to tell you?** | It seems to be showing the amount of protein in $5 of a food | Protein in $5 of food | Grams of protein in $5 of food |
+| **Do you think you're able to understand the story at first?** | Yes, this is very simple to understand | Yes | Yes |
+| **Who do you think is the intended audience for this?** | Same as before | Same as before | Same as before |
+| **Do you think the intended audience would find it useful?** | Yes, as it shows which has the most protein for the cheapest price | Yes because it is easy to parse | Yes, it is simple to understand at a glance |
+| **Is there anything you would change or do differently?** | Change the colors so it is ADA compliant, since the options of food choices is useful | Changing the colors would be useful again, as well as understanding how much the product cost on sale | Change the colors |
 
-Synthesis: 
+### Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+From the interviews, I realized that my intuition on the first sketch being too complicated was correct, as those who read it felt it was too confusing for what it was. The size really made things difficult, and I also realized that the connection between all 3 elements I was depicting made little sense when you think outside the dataset.
+
+Going back to the idea of the original viz and making a bar chart really improved the readability, especially when I removed the extraneous elements such as the calories and the pictures just as I planned. All 3 interviewees were able to easily understand the contents with the flipped axis, which was more intuitive as the scale was in hundreds over the USD. Making the cost static really accentuated the amount of protein we get in the foods, which is changing the story slightly but helped give the idea of cost vs quantity.
+
+The colors being ADA compliant was one criticism I had anticipated. I had chosen red and green as in India, red labels are put on products which are 'non-vegetarian' and green labels are put on products which are 'vegetarian', with it being a common distinguisher between all packaged foods. For sketching I decided to use it to see how intuitive people would find it, which they did, but the problem still remained that it is not ADA compliant. Changing the colors so that I could keep the intuitive meaning while making it ADA compliant was an idea I would use when building the solution as well.
 
 ## Step five: build the solution
+
+Through the synthesis phase, I learnt many things I could add into the diagram. However, many of the things I did add into the viz were through playing around with Tableau itself. I realized I could create calculated fields like I had planned for inversing the cost to protein ration as I had done previously, allowing me to add in the vegan, vegetarian and meat options into the same column. I also think by making the bar chart sideways, the readability would increase as well as space as most computer screens have longer widths than heights, allowing to fit the name of the product more easily.
+
+Labeling the grams on the bars and removing the axis also helped as we can see the exact changes in protein. On the tooltip I decided to add some more extra information so one can make more educated guesses, while annotating the protein sources which have the cheapest and most expensive smallest package. I also removed all extra information so nothing appears twice or is redundant.
+
+I changed the colors as that was a major feedback, trying to maintain the original idea of intuitive reading with being ADA compliant. I believe I came to a good color scheme which isn't too distracting and would be ADA compliant. I also added the feedback relating to the cost of package of the food source, as it would give the idea about what is in the budget to the person overall.
+
+Finally, I kept a title such that when a person reads it they realize how to read the bars themselves, telling the story about which has the most protein for $5 (which I changed to show a smaller range of values).
 
 <div class='tableauPlaceholder' id='viz1763061583303' style='position: relative'><noscript><a href='#'><img alt='How much protein can you get for $5?Source: Makeover Monday 2023&#47;W8: The Cheapest Ways to Get Your Protein ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;pr&#47;protein_costs&#47;Sheet4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='protein_costs&#47;Sheet4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;pr&#47;protein_costs&#47;Sheet4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /><param name='filter' value='showOnboarding=true' /></object></div>
 <script type='text/javascript'>
@@ -159,9 +172,15 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+In the end, I am pretty happy with how the viz turned out, but will say that GitHub Pages is messing up the formatting of the annotation boxes more than expected. This was a fun assignment to work on, and I hope I get to do something like this again!
+
 ## References
-- Makeover
+- Good Charts Chapter 3, Chapter 4, Pages 114 - 118
+- [2023/W8: The Cheapest Ways to Get Your Protein](2023/W8: The Cheapest Ways to Get Your Protein)
+- [Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
+- 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used ChatGPT 5 Pro to ideate on the data I received. I did not use it to create anything, just push through ideas. I also used it as a user manual as I don't find Tableau as intuitive to use, so to do the things I wanted to do, I would ask ChatGPT.
 
