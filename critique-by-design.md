@@ -2,8 +2,6 @@
 
 # Critique by Redesign
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
 This assignment was an interesting one as I got utilize many of the skills I had learnt over the weeks in our **Telling Stories with Data Class**. In this assignment, we had to pick through the list of viz from the Makeover Monday website, where people post visualizations to critique by redesign. I found this as a great application of my understanding of visualizations!
 
 ## Step one: the visualization
@@ -122,9 +120,20 @@ My interviewees were fellow classmates from my class-
 
 Results: 
 
+**Sketch 1**
 | Question                                                       | Interviewee 1 | Interviewee 2 | Interviewee 3 |
 |----------------------------------------------------------------|---------------|---------------|---------------|
-| Can you tell me what you think this is at first glance?        | Protein Graph |               |               |
+| Can you tell me what you think this is at first glance?        | Scatterplot depicting a relationship between protein and cost | Scatterplot about different foods | Food and protein relationship viz |
+| Can you describe to me what you think it's trying to tell you? |               |               |               |
+| Do you think you're able to understand the story at first?     |               |               |               |
+| Who do you think is the intended audience for this?            |               |               |               |
+| Do you think the intended audience would find it useful?       |               |               |               |
+| Is there anything you would change or do differently?          |               |               |               |
+
+**Sketch 2**
+| Question                                                       | Interviewee 1 | Interviewee 2 | Interviewee 3 |
+|----------------------------------------------------------------|---------------|---------------|---------------|
+| Can you tell me what you think this is at first glance?        | | | |
 | Can you describe to me what you think it's trying to tell you? |               |               |               |
 | Do you think you're able to understand the story at first?     |               |               |               |
 | Who do you think is the intended audience for this?            |               |               |               |
@@ -148,7 +157,7 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 </script>
 
 ## References
-_List any references you used here._
+- Makeover
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
