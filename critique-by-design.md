@@ -121,14 +121,16 @@ My interviewees were fellow classmates from my class-
 Results: 
 
 **Sketch 1**
-| Question                                                       | Interviewee 1 | Interviewee 2 | Interviewee 3 |
-|----------------------------------------------------------------|---------------|---------------|---------------|
-| Can you tell me what you think this is at first glance?        | Scatterplot depicting a relationship between protein and cost | Scatterplot about different foods | Food and protein relationship viz |
-| Can you describe to me what you think it's trying to tell you? |               |               |               |
-| Do you think you're able to understand the story at first?     |               |               |               |
-| Who do you think is the intended audience for this?            |               |               |               |
-| Do you think the intended audience would find it useful?       |               |               |               |
-| Is there anything you would change or do differently?          |               |               |               |
+
+| Question | Interviewee 1 | Interviewee 2 | Interviewee 3 |
+|-----------|----------------|----------------|----------------|
+| **Can you tell me what you think this is at first glance?** | Scatterplot depicting a relationship between protein and cost | Scatterplot about different foods | Food and protein relationship visualization |
+| **Can you describe to me what you think it's trying to tell you?** |  |  |  |
+| **Do you think you're able to understand the story at first?** |  |  |  |
+| **Who do you think is the intended audience for this?** |  |  |  |
+| **Do you think the intended audience would find it useful?** |  |  |  |
+| **Is there anything you would change or do differently?** |  |  |  |
+
 
 **Sketch 2**
 | Question                                                       | Interviewee 1 | Interviewee 2 | Interviewee 3 |
