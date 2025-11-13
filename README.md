@@ -1,7 +1,5 @@
 | [home page](https://cpt-periwinkle.github.io/skalekar-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# skalekar-portfolio-templates 
-
 - [Portfolio](http://cpt-periwinkle.github.io/skalekar-portfolio-templates/)
 - [GitHub Repository](https://github.com/cpt-periwinkle/skalekar-portfolio-templates)
 
