@@ -33,28 +33,36 @@ Three things I felt which definitely needed to change were-
 ### Stephen Few's Method
 This method I used through the means of the Google form, which made it easy to understand what I was supposed to do.
 
-**1. Usefulnesss**
+**1. Usefulness-**
+
 I feel the viz was useful in terms of the title as it told the story well, but the actual data itself needed a few moments to parse. With its scale being quite unintuitive to me personally, I felt that this viz was useful in terms of giving the idea but doesn't actually tell you the story as well outside of the title. However, if you put in some effort, it will be quite useful for those who care about their diet.
 
-**2. Completeness**
+**2. Completeness-**
+
 The data itself is pretty complete as it sets out to tell the story it wanted to tell, which is comparing the price of protein for different food sources. I believe it does give the idea and allows the user to actually gain complete insights. However, I personally think that maybe if we could somehow visualize how much is the smallest container of one of the protien sources would have made it more useful.
 
-**3. Perceptibility**
+**3. Perceptibility-**
+
 I believe this viz artist was onto something in terms of the bar chart being a simple yet effective way of showing the contents of the data, as it feels very easy to understand. However, there's too much extraneous elements like calorie counts and pictures which are very distracting, which is why I don't think it's the understandable viz.
 
-**4. Truthfulness**
+**4. Truthfulness-**
+
 The data itself is incredibly accurate, especially once compared to the dataset provided. There is the problem such as the calorie counts not even being present in the dataset, but otherwise, it is very truthful.
 
-**5. Intuitiveness**
+**5. Intuitiveness-**
+
 As mentioned in perceptibility, there's a certain level of intuitiveness in this viz coming through the idea  of the bar chart and it being sorted. I can tell that the heights of the bar charts are important, though I misunderstood that height as at first glance I misunderstood the tallest being the least costly, even though that means its the most expensive. I think inversing the relationship would make it more intuitive.
 
-**6. Aesthetics**
+**6. Aesthetics-**
+
 I personally found the aesthetics of the viz just fine. It isn't rocking the boat, but it isn't the ugliest thing on Earth either. I would say that the simple bar chart is making it at least slightly pleasing on the eyes, but not by much.
 
-**7. Engagement**
+**7. Engagement-**
+
 This was not a very engaging viz for me, especially since it wasn't very useful in terms of actual shown data. The title itself is incredibly eye catching for those people who are on a diet, but other than that the information gets lost due to the number of distracting elements in the diagram itself.
 
-**8. Describe your overall observations about the data visualization here**
+**8. Describe your overall observations about the data visualization-**
+
 The viz depicted is very striking to me through the title alone. As a person who is very careful about my diet, I found the title incredibly eye-capturing. The simple bar graph made it easy to see which foods have the highest cost as per the protein amount, though I would say on first glance I'd have thought it was a graph on cost per gram of protein. To me, the graph feels like it should be telling one story but it seems to be the exact opposite due to the way the sorting has been done. The pictures also seem a bit distracting and additional, since we already have the names, so it feels like we are just adding more components even though it's not required. I also feel the calorie accounts on the bar is distracting as it feels as if the data is mislabeled.
 
 **9. Who is the target audience and is this an effective viz for reaching that audience?**
