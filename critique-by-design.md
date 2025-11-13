@@ -131,7 +131,7 @@ My interviewees were fellow classmates from my class-
 | **Do you think the intended audience would find it useful?** | No, since it is too difficult to parse | No, it is very distracting | Maybe, but it would be difficult to parse and get anything meaningful out of it |
 | **Is there anything you would change or do differently?** | Make it simpler and change the colors so it is ADA compliant | Change the colors and make the reason for the size more obvious | Simplify and reduce the dimensions so as to make it more understandable. Maybe change the colors |
 
-
+<br>
 
 **Sketch 2**
 
@@ -144,7 +144,7 @@ My interviewees were fellow classmates from my class-
 | **Do you think the intended audience would find it useful?** | Yes, as it shows which has the most protein for the cheapest price | Yes because it is easy to parse | Yes, it is simple to understand at a glance |
 | **Is there anything you would change or do differently?** | Change the colors so it is ADA compliant, since the options of food choices is useful | Changing the colors would be useful again, as well as understanding how much the product cost on sale | Change the colors |
 
-
+<br>
 
 ### Synthesis: 
 
@@ -173,7 +173,7 @@ Finally, I kept a title such that when a person reads it they realize how to rea
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
+<br>
 In the end, I am pretty happy with how the viz turned out, but will say that GitHub Pages is messing up the formatting of the annotation boxes more than expected. This was a fun assignment to work on, and I hope I get to do something like this again!
 
 ## References
@@ -187,6 +187,6 @@ I used ChatGPT 5 Pro to ideate on the data I received. I did not use it to creat
 
 I also used it as a user manual as I don't find Tableau as intuitive to use, so to do the things I wanted to do, I would ask ChatGPT. Examples of queries would be:
 
-_I want to create a calculated field which would allow me to have vegetarian, vegan and meat so I can add color to it_
-_How do I change the color of the text in the Legend?_
+- _I want to create a calculated field which would allow me to have vegetarian, vegan and meat so I can add color to it_
+- _How do I change the color of the text in the Legend?_
 
