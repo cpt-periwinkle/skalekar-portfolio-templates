@@ -13,7 +13,7 @@ _This assignment was an interesting one as I got utilize many of the skills I ha
 
 ![Protein cost visualization](https://mediauploads.data.world/3db73ff8f29a47292ba311c8b22a01128824a50ed28c88e06d079697861be225_image.png)
 
-_I chose to redesign [**The Cheapest Way to Get Your Protein**](https://data.world/makeovermonday/2023w8) from the Makeover Monday catalog, which was the viz that was put up on February 2, 2023. The reason I chose this particular viz after going through many was because I felt this was a viz which would be useful for me to understand as a person who is picky about my diet. I felt the viz would be useful, but there were some things which could have improved my understanding, which is why I chose it._
+I chose to redesign [**The Cheapest Way to Get Your Protein**](https://data.world/makeovermonday/2023w8) from the Makeover Monday catalog, which was the viz that was put up on February 2, 2023. The reason I chose this particular viz after going through many was because I felt this was a viz which would be useful for me to understand as a person who is picky about my diet. I felt the viz would be useful, but there were some things which could have improved my understanding, which is why I chose it.
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
