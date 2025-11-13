@@ -125,16 +125,12 @@ My interviewees were fellow classmates from my class-
 | Question | Interviewee 1 | Interviewee 2 | Interviewee 3 |
 |-----------|----------------|----------------|----------------|
 | **Can you tell me what you think this is at first glance?** | Scatterplot depicting a relationship between protein and cost | Scatterplot about different foods | Food and protein relationship visualization |
-| **Can you describe to me what you think it's trying to tell you?** | 
-It seems to say that cost of 20g of protein is least for skimmed milk |
-The data seems to depict the amount of protein to its cost per 20g | The cost of protein to its unit rate |
-| **Do you think you're able to understand the story at first?** | No, it is too complicated | It is difficult to parse |
-Feels too distracting |
+| **Can you describe to me what you think it's trying to tell you?** | It seems to say that cost of 20g of protein is least for skimmed milk | The data seems to depict the amount of protein to its cost per 20g | The cost of protein to its unit rate |
+| **Do you think you're able to understand the story at first?** | No, it is too complicated | It is difficult to parse | Feels too distracting |
 | **Who do you think is the intended audience for this?** | People who care about fitness | People who are careful about diet | People who regularly go to the gym |
-| **Do you think the intended audience would find it useful?** | No, since it is too difficult to parse | No, it is very distracting |
-Maybe, but it would be difficult to parse and get anything meaningful out of it |
-| **Is there anything you would change or do differently?** | Make it simpler and change the colors so it is ADA compliant |
-Change the colors and make the reason for the size more obvious | Simplify and reduce the dimensions so as to make it more understandable. Maybe change the colors. |
+| **Do you think the intended audience would find it useful?** | No, since it is too difficult to parse | No, it is very distracting | Maybe, but it would be difficult to parse and get anything meaningful out of it |
+| **Is there anything you would change or do differently?** | Make it simpler and change the colors so it is ADA compliant | Change the colors and make the reason for the size more obvious | Simplify and reduce the dimensions so as to make it more understandable. Maybe change the colors. |
+
 
 
 **Sketch 2**
