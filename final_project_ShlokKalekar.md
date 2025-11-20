@@ -84,7 +84,7 @@ Together, these datasets provide both micro-level behavioral detail and macro-le
 
 I will complete my final project using a mix of Tableau, Datawrapper, and Shorthand.  
 Tableau will mostly be used for analytical and complex visualizations such as maps, scatterplots, and comparative charts.  
-Datawrapper will maybe be used for clean, publication-ready charts such as bar charts, donut charts, and annotated visuals. I will probably see what works best between the Tableau and Datawrapper when creating viz, but will mostly focus on Datawrapper.  
+Datawrapper will maybe be used for clean, publication-ready charts such as bar charts, donut charts, and annotated visuals. I will probably see what works best between the Tableau and Datawrapper when creating viz, but will mostly focus on using Tableau.  
 The final narrative will be built in Shorthand as an interactive, scroll-based story that integrates visuals, text, and transitions.
 
 ---
