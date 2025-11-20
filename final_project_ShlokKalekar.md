@@ -72,7 +72,7 @@ Together, these datasets provide both micro-level behavioral detail and macro-le
 
 | Name | URL | Description |
 |------|-----|-------------|
-| **Shopping Behavior Dataset (Primary)** | [https://www.kaggle.com/datasets/saadaliyaseen/shopping-behaviour-dataset](https://www.kaggle.com/datasets/saadaliyaseen/shopping-bhehaviour-dataset) | Individual-level shopping behavior including category, spend, shipping type, frequency, subscription status, age, and location. Main dataset for behavioral insights. |
+| **Shopping Behavior Dataset (Primary)** | [https://www.kaggle.com/datasets/saadaliyaseen/shopping-behaviour-dataset](https://www.kaggle.com/datasets/saadaliyaseen/shopping-behaviour-dataset) | Individual-level shopping behavior including category, spend, shipping type, frequency, subscription status, age, and location. Main dataset for behavioral insights. |
 | **Holiday Gift Spending (Makeover Monday 2022 Week 52)** | [https://data.world/makeovermonday/2022w52](https://data.world/makeovermonday/2022w52) | Annual US holiday gift spending by category (family, friends, coworkers, other), used for seasonal and long-term national spending trends. |
 | **DataUSA – Electronic Shopping (NAICS 454110)** | [https://datausa.io/profile/naics/electronic-shopping](https://datausa.io/profile/naics/electronic-shopping) | Industry-level trends including revenue, employment, state-level performance, and digital access context. |
 | **Google DataCommons – United States** | [https://datacommons.org/place/country/USA](https://datacommons.org/place/country/USA) | State-level demographic, income, and economic indicators for geographic comparison and context. |
