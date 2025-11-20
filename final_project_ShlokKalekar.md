@@ -44,15 +44,15 @@ The narrative ends by showing how readers can use these insights to think more i
 
 **1. Category Spending Treemap**  
 This sketch gives a general overview of how relative spending breaks down in the United States based on broad shopping categories. It reflects the insights of Act 1 and 2 where I begin introducing behavioral patterns.  
-<img src="treemap.jpg" alt="Treemap depicting category spending"/>
+<img src="treemap.jpg" alt="Treemap depicting category spending" width=800/>
 
 **2. Shipping Type vs Spend Bar Chart**  
 This sketch illustrates how much consumers spend depending on shipping type. With many people having subscriptions like Amazon Prime, shipping behavior becomes important context for Act 3 or 4.  
-<img src="barchart.jpg" alt="Shipping type vs spending bar chart"/>
+<img src="barchart.jpg" alt="Shipping type vs spending bar chart" width=800/>
 
 **3. US Choropleth Spending Map**  
-This sketch is a rough representation of spending differences across states. This visualization could be used early in Act 2 to reveal geographic variation, or later in Act 4 as supporting context for national trends.  
-<img src="choropleth.jpg" alt="US map showing spending by state using color"/>
+This sketch is a rough representation of spending differences across states. This visualization could be used early in Act 3 to reveal geographic variation, or later in Act 4 as supporting context for national trends.  
+<img src="choropleth.jpg" alt="US map showing spending by state using color" width=800/>
 
 ---
 
@@ -83,8 +83,8 @@ Together, these datasets provide both micro-level behavioral detail and macro-le
 # Method and medium
 
 I will complete my final project using a mix of Tableau, Datawrapper, and Shorthand.  
-Tableau will be used for analytical and complex visualizations such as maps, scatterplots, and comparative charts.  
-Datawrapper will be used for clean, publication-ready charts such as bar charts, donut charts, and annotated visuals.  
+Tableau will mostly be used for analytical and complex visualizations such as maps, scatterplots, and comparative charts.  
+Datawrapper will maybe be used for clean, publication-ready charts such as bar charts, donut charts, and annotated visuals. I will probably see what works best between the Tableau and Datawrapper when creating viz, but will mostly focus on Datawrapper.  
 The final narrative will be built in Shorthand as an interactive, scroll-based story that integrates visuals, text, and transitions.
 
 ---
