@@ -44,15 +44,15 @@ The narrative ends by showing how readers can use these insights to think more i
 
 **1. Category Spending Treemap**  
 This sketch gives a general overview of how relative spending breaks down in the United States based on broad shopping categories. It reflects the insights of Act 1 and 2 where I begin introducing behavioral patterns.  
-<img src="treemap.jpg" alt="Treemap depicting category spending" width=800/>
+<img src="treemap.jpg" alt="Treemap depicting category spending" width=600/>
 
 **2. Shipping Type vs Spend Bar Chart**  
 This sketch illustrates how much consumers spend depending on shipping type. With many people having subscriptions like Amazon Prime, shipping behavior becomes important context for Act 3 or 4.  
-<img src="barchart.jpg" alt="Shipping type vs spending bar chart" width=800/>
+<img src="barchart.jpg" alt="Shipping type vs spending bar chart" width=600/>
 
 **3. US Choropleth Spending Map**  
 This sketch is a rough representation of spending differences across states. This visualization could be used early in Act 3 to reveal geographic variation, or later in Act 4 as supporting context for national trends.  
-<img src="choropleth.jpg" alt="US map showing spending by state using color" width=800/>
+<img src="choropleth.jpg" alt="US map showing spending by state using color" width=600/>
 
 ---
 
