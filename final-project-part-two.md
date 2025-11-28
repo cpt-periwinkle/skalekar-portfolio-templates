@@ -170,17 +170,17 @@ __Research Goals__
 
 My interviewees were the following-
 
-- Interviewee 1 was a student from the MAM Program who had worked lightly in design
-- Interviewee 2 was a student from the MISM program who had worked with data previously
-- Interviewee 3 was also a student from the MISM program who was working on becoming a Product Manager
+- Interviewee 1 was a student from the MSISPM Program who does not shop online often
+- Interviewee 2 was a SWE developer who frequently shops online
+- Interviewee 3 was a student from the MSE Program who will shop online if there is deal present
 
 | Questions               | Interviewee 1 | Interviee 2 | Interviewee 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Does the story make sense to you?  |            |             |             |
-| Which chart felt easiest to understand? Which was hardest?  |                                |             |             |
-| Did any part feel too long, repetitive, or sudden?   |                                |             |             |
-| Did the final section make you think about your own habits?  |                                |             |             |
-| Are the colors, spacing, and layout comfortable to read?  |                                |             |             |
+| Does the story make sense to you?  |     Yes       |             |             |
+| Which chart felt easiest to understand? Which was hardest?  |  Easiest was Category Chart, hardest was Gift Chart     |             |             |
+| Did any part feel too long, repetitive, or sudden?   |  US map appeared suddenly   |             |             |
+| Did the final section make you think about your own habits?  | Understood implication, no tangible action  |             |             |
+| Are the colors, spacing, and layout comfortable to read?  | Colors are well thought out, font needs to be bigger  |             |             |
 
 
 # Identified changes for Part III
