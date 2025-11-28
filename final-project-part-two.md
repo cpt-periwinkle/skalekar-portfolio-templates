@@ -176,11 +176,11 @@ My interviewees were the following-
 
 | Questions               | Interviewee 1 | Interviee 2 | Interviewee 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Does the story make sense to you?  |     Yes       |             |             |
-| Which chart felt easiest to understand? Which was hardest?  |  Easiest was Category Chart, hardest was Gift Chart     |             |             |
-| Did any part feel too long, repetitive, or sudden?   |  US map appeared suddenly   |             |             |
-| Did the final section make you think about your own habits?  | Understood implication, no tangible action  |             |             |
-| Are the colors, spacing, and layout comfortable to read?  | Colors are well thought out, font needs to be bigger  |             |             |
+| Does the story make sense to you?  |     Yes       |             |     Yes        |
+| Which chart felt easiest to understand? Which was hardest?  |  Easiest was Category Chart, hardest was Gift Chart     |             |  Seasonal bar chart easy, map was hardest           |
+| Did any part feel too long, repetitive, or sudden?   |  US map appeared suddenly   |             | Nothing felt too off            |
+| Did the final section make you think about your own habits?  | Understood implication, no tangible action  |             |  Yes  |
+| Are the colors, spacing, and layout comfortable to read?  | Colors are well thought out, font needs to be bigger  |             |  Font was too small, color was great           |
 
 
 # Identified changes for Part III
