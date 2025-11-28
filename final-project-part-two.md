@@ -184,21 +184,30 @@ My interviewees were the following-
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Based on the interview feedback, I plan to focus Part III on improving clarity, pacing, and visual accessibility.
+Across all three interviews, the big themes were:
+- the map felt abrupt and visually confusing
+- some font sizes were too small
+- a few charts (like the ribbon) were harder to interpret
+- readers wanted more explicit context around averages and data sources
+- certain visuals needed smoother transitions within the story.
+
+Below is a synthesis of findings and the concrete changes I will implement.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The US map “appeared suddenly” and felt like a jump in scale | Add a clearer transition paragraph before the map explaining the shift from emotional/seasonal behavior → geographic behavior. Possibly add a short annotation on the map itself to reduce interpretive friction |
+| The map was consistently identified as the hardest to understand | Add labels or a small legend explanation, and include an annotation stating that differences are small which is the point of the chart. Improve color contrast if needed. Add the legend |
+|  Multiple interviewees said chart fonts were too small  | Increase font sizes in Tableau and Datawrapper to improve readability (titles, labels, annotations). Ensure ADA-friendly sizing across all visuals |
+| One interviewee said the data might be skewed or unclear  | Clarify dataset scope in the introduction or captions (“Synthetic/representative data for behavioral illustration”). Add source notes where relevant |
+| The ribbon/gift chart was confusing or hard to read  | Replace the ribbon with a simpler 100% stacked area or add annotations that explain what is increasing. Reduce cognitive load |
+| The holiday “actionability” wasn’t clear to one user | Strengthen the reflection section by explicitly connecting emotional spending to reader habits (“This is why we overspend during holidays”) |
+| One user wanted to know what the averages are based on | Add a one-sentence context callout before the average-spend charts (“Average order value based on all orders in the dataset”) |
 
-> ...include any final thoughts you have here. 
+## Final thoughts
 
-Text here!
+Overall, the interviews confirmed that the updated narrative arc is strong and intuitive, especially the emotional pivot into the holiday section. The main improvements needed for Part III are presentation-focused: better transitions, larger font sizes, clearer annotations, and a more intentional introduction to the US map. These refinements will make the final Shorthand story smoother, more accessible, and better aligned with user expectations.
 
 # Moodboard: Modern Shopping Aesthetic
 For this project, I wanted a visual identity that felt clean, modern, and consistent with contemporary e-commerce design. Because the story focuses on clothing and everyday online shopping behavior, I chose a palette and style that is calm, minimal, and easy to read.
@@ -230,10 +239,12 @@ Jason (28) is a pragmatic young professional who shops online when he needs some
 Priya (26) is a busy graduate student who values convenience above all else. She buys online to save time, often selecting whatever shipping gets items to her fastest. She doesn’t overanalyze purchases and rarely tracks how often she shops. Priya prefers bright, clean layouts, clear labels, and minimal reading. She wants insights that reveal how her habits fit into bigger patterns — “Do other people also shop more during certain seasons?” or “Am I overspending without realizing it?”
 Designing for Priya encourages a story that is accessible, intuitive, and easy to skim.
 
-Text here!
-
 ## References
-_List any references you used here._
+Berinato, S. (2016). *Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations*. Harvard Business Review Press.
+
+Kaggle. (n.d.). *Shopping Behaviour Dataset*. https://www.kaggle.com/datasets/saadaliyaseen/shopping-behaviour-dataset
+
+Makeover Monday. (2022). *2022 Week 52: Holiday Gift Spending*. https://data.world/makeovermonday/2022w52
 
 ## AI acknowledgements
 I used GenAI (ChatGPT 5.1) to help refine the narrative structure, expand my storyboard, and organize interview findings. All analysis, visual creation, and final storytelling decisions were my own.
