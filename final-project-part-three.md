@@ -75,19 +75,19 @@ While Shorthand enabled a clean, scroll-based storytelling style, I found the pl
 
 ## References
 
-Illustrations- https://storyset.com/
+Illustrations — [https://storyset.com/](https://storyset.com/)
 
-BEST CONSUMER IMPULSE BUYING STATISTICS 2025-https://www.amraandelma.com/consumer-impulse-buying-statistics/
+BEST CONSUMER IMPULSE BUYING STATISTICS 2025 — [https://www.amraandelma.com/consumer-impulse-buying-statistics/](https://www.amraandelma.com/consumer-impulse-buying-statistics/)
 
-Americans Are Spending Less on Impulse Purchases in 2023 Than in Prior Years, According to Annual Survey Commissioned by Slickdeals-https://www.prnewswire.com/news-releases/americans-are-spending-less-on-impulse-purchases-in-2023-than-in-prior-years-according-to-annual-survey-commissioned-by-slickdeals-301886019.html
+Americans Are Spending Less on Impulse Purchases in 2023 Than in Prior Years, According to Annual Survey Commissioned by Slickdeals — [https://www.prnewswire.com/news-releases/americans-are-spending-less-on-impulse-purchases-in-2023-than-in-prior-years-according-to-annual-survey-commissioned-by-slickdeals-301886019.html](https://www.prnewswire.com/news-releases/americans-are-spending-less-on-impulse-purchases-in-2023-than-in-prior-years-according-to-annual-survey-commissioned-by-slickdeals-301886019.html)
 
-Adobe Digital Economy Index- https://business.adobe.com/resources/digital-economy-index.html
+Adobe Digital Economy Index — [https://business.adobe.com/resources/digital-economy-index.html](https://business.adobe.com/resources/digital-economy-index.html)
 
-Average monthly amount consumers spent while making impulse purchases in the United States from 2020 to 2023- https://www.statista.com/statistics/1330467/per-month-spending-on-impulse-purchases-usa/?srsltid=AfmBOooIle62G6jWJevjIIq-ggZZjqHiF6dnJm-s_HR3YMKlMTb8M383
+Average monthly amount consumers spent while making impulse purchases in the United States from 2020 to 2023 — [https://www.statista.com/statistics/1330467/per-month-spending-on-impulse-purchases-usa/?srsltid=AfmBOooIle62G6jWJevjIIq-ggZZjqHiF6dnJm-s_HR3YMKlMTb8M383](https://www.statista.com/statistics/1330467/per-month-spending-on-impulse-purchases-usa/?srsltid=AfmBOooIle62G6jWJevjIIq-ggZZjqHiF6dnJm-s_HR3YMKlMTb8M383)
 
-Capital One Shopping Impulse Buying Statistics- https://capitaloneshopping.com/research/impulse-buying-statistics/
+Capital One Shopping Impulse Buying Statistics — [https://capitaloneshopping.com/research/impulse-buying-statistics/](https://capitaloneshopping.com/research/impulse-buying-statistics/)
 
-National Retail Federation Winter Holidays 2024- https://nrf.com/research-insights/holiday-data-and-trends/winter-holidays
+National Retail Federation Winter Holidays 2024 — [https://nrf.com/research-insights/holiday-data-and-trends/winter-holidays](https://nrf.com/research-insights/holiday-data-and-trends/winter-holidays)
 
 ### Additional notes:
 
