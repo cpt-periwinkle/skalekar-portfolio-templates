@@ -29,7 +29,6 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
   [Part III](final-project-part-three)
 
 ## References
-## References
 Berinato, S. *Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations.*
 
 Datawrapper. https://www.datawrapper.de/
