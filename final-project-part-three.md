@@ -2,7 +2,7 @@
 
 # The final data story
 
-__Shorthand link:__ [https://preview.shorthand.com/IdGsyxTHUNnWKoCf](https://preview.shorthand.com/IdGsyxTHUNnWKoCf)
+__Shorthand link:__ [https://carnegiemellon.shorthandstories.com/why-i-keep-overspending-every-holiday-season/index.html](https://carnegiemellon.shorthandstories.com/why-i-keep-overspending-every-holiday-season/index.html)
 
 My final data story, Why I Keep Overspending Every Holiday Season, explores impulse spending, holiday-driven shopping behavior, and the emotional triggers that shape consumer habits. Rather than approaching the topic analytically as I had originally planned, I reframed the narrative around a personal perspective: I tell the story as if I were the impulsive holiday shopper persona. This choice allowed the data to feel relatable and helped ground national statistics in real, familiar experiences.
 
