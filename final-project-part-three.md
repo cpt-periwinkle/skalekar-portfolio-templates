@@ -2,7 +2,7 @@
 
 # The final data story
 
-Shorthand link: [https://preview.shorthand.com/IdGsyxTHUNnWKoCf](https://preview.shorthand.com/IdGsyxTHUNnWKoCf)
+__Shorthand link:__ [https://preview.shorthand.com/IdGsyxTHUNnWKoCf](https://preview.shorthand.com/IdGsyxTHUNnWKoCf)
 
 My final data story, Why I Keep Overspending Every Holiday Season, explores impulse spending, holiday-driven shopping behavior, and the emotional triggers that shape consumer habits. Rather than approaching the topic analytically as I had originally planned, I reframed the narrative around a personal perspective: I tell the story as if I were the impulsive holiday shopper persona. This choice allowed the data to feel relatable and helped ground national statistics in real, familiar experiences.
 
@@ -97,17 +97,12 @@ Photography sourced from Unsplash, which permits free use with attribution.
 
 All datasets used in the final narrative come from publicly accessible reports including:
 
-Adobe Digital Economy Index
-
-Capital One Shopping
-
-Statista
-
-amra & elma
-
-PR Newswire
-
-National Retail Federation
+- Adobe Digital Economy Index
+- Capital One Shopping
+- Statista
+- amra & elma
+- PR Newswire
+- National Retail Federation
 
 No copyrighted materials were used.
 
